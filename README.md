@@ -6,8 +6,11 @@
 - RAISSI SAID
 
 
+## Problématique
 
-  Problématique : Dans quelle mesure l'influence de certains paramètres permet-elle de comprendre la propagation de pandémie 
-                  tel que la grippe espagnole?
+Dans quelle mesure l'influence de certains paramètres permet-elle de comprendre la propagation de pandémie tel que la grippe espagnole?
+
+
+## Comptes rendus
 
 [1er compte rendu](https://are-dynamic-2018.github.io/GrippeEspagnole-/CompteRendu1)
