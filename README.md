@@ -1,4 +1,4 @@
-# GrippeEspagnole-
+# Grippe_Espagnole
 
 BOUGHERARA Adan
 CHETTI Amel
