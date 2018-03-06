@@ -15,4 +15,4 @@ Dans quelle mesure l'influence de certains paramètres permet-elle de comprendre
 
 [1er compte rendu](https://are-dynamic-2018.github.io/Grippe-Espagnole/CompteRendu1)
 
-[2e compte rendu](https://are-dynamic-2018.github.io/Grippe-Espagnole/Compte-rendu 2)
+[2e compte rendu](https://are-dynamic-2018.github.io/Grippe-Espagnole/CompteRendu2)
