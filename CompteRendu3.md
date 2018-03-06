@@ -10,3 +10,5 @@ A faire : trouver le temps d'incubation de la grippe espagnole, la probabilité 
           Faire une animation
           comparer nos résultats aux résultats historiques (taux de décès, ...)
           Etudier sur la mobilité des individus dans le système
+          
+[projet are amel 2 et 4 param.ipynb](https://github.com/are-dynamic-2018/Grippe-Espagnole/blob/master/projet%20are%20amel%202%20et%204%20param.ipynb)
