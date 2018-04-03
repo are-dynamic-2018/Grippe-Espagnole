@@ -22,3 +22,5 @@ Dans quelle mesure l'influence de certains paramètres permet-elle de comprendre
 [4e compte rendu](https://are-dynamic-2018.github.io/Grippe-Espagnole/CompteRendu4)
 
 [5e compte rendu](https://are-dynamic-2018.github.io/Grippe-Espagnole/CompteRendu5)
+
+[6e compte rendu](https://are-dynamic-2018.github.io/Grippe-Espagnole/CompteRendu6)
